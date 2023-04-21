@@ -1,1 +1,2 @@
 # FaceRecognitionPCA
+I am implementing a face recognition project by applying the concept of Principal Component Analysis (PCA). Furthermore, PCA is an unsupervised learning that is used to determine the interelations among the attributes. This technique is used to reduce the dimensionality of the large dataset into a smaller one that have as much information as possible with a small portion of info lost. Moreover, the first part of the project consists of preparing the training images for the calculations.
